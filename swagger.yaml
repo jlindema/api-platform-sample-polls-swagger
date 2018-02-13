@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: Polls Swagger JL
+  title: Polls Swagger
   description: Polls is a simple API allowing consumers to view polls and vote in them.
   version: "8234aab51481d37a30757d925b7f4221a659427e"
 host: polls.apiblueprint.org
